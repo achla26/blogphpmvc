@@ -86,6 +86,7 @@
                 return false;
             }
         }
+        
         public function set_session($session_name, $session_value){
             $_SESSION[$session_name] = $session_value;
             return $_SESSION[$session_name];

@@ -5,7 +5,7 @@
                         <label class="control-label">Blog Search</label>
 
                         <div class="input-group">
-                                <input type="text" name="keyword" class="form-control" placeholder="Search for...">
+                                <input type="text" name="keyword" autocomplete="off" class="form-control" placeholder="Search for...">
                                 <span class="input-group-btn">
                                     <button class="btn btn-default" type="submit">Go!</button>
                                 </span>
